@@ -1,4 +1,4 @@
-# AFlinn53.github
+# AFlinn53.github.io
 
 theme: Hacker
 title: Aidan's homepage
